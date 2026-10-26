@@ -1,0 +1,8 @@
+{
+  "name": "METEOR-CENTRAL: Meteorological Weather Station Management System",
+  "description": "Centralized MERN-stack platform for meteorological weather stations, IoT sensor monitoring, automated calibration scheduling, maintenance workflows, and compliance audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
